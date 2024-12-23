@@ -6,6 +6,11 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 To start a local development server, run:
 
+First Use to install the required files:
+```bash
+npm install
+```
+To run use this:
 ```bash
 ng serve
 ```
